@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astitva2051
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me : email me
 
 <!---
